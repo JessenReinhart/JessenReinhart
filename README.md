@@ -1,96 +1,88 @@
-# JR — Jessen Reinhart 👋
+# Jessen Reinhart 👋
 
-Senior Frontend Engineer — Shipping web systems since 2019  
-Professional focus: banking platforms, merchant dashboards, and large-scale CMS — with a track record of optimizing load speed, modularizing codebases, and enforcing strict TypeScript practices.
+**Senior Frontend Engineer** · Jakarta, UTC+7  
+Shipping web systems since 2019 — banking platforms, merchant dashboards, enterprise CMS.
 
 [Website](https://jessenreinhart.github.io/) · [Email](mailto:jessenreinharts@gmail.com) · [LinkedIn](https://linkedin.com/in/jessenreinhart)
 
 ---
 
-## Snapshot
+## By the numbers
 
-- 7+ years building production web apps for enterprise and consumer platforms  
-- 20 financial institutions supported · 30M portal users reached · 2M monthly orders processed
-
----
-
-## Professional highlights (production work)
-
-- Built white‑label React templates and enterprise UI modules for a regional digital banking platform serving 20 financial institutions.  
-- Architected and tuned checkout and storefront systems that processed 2M monthly orders and reached 30M portal users.  
-- Raised Lighthouse scores from ~70 to 95 for server‑rendered storefronts through performance audits and resource optimization.  
-- Currently developing a Card Management System (credit/debit lifecycle) and contributing full‑stack features across backend and frontend.
+- 20 financial institutions supported
+- 30M portal users reached
+- 2M monthly orders processed
+- Lighthouse 70 → 95 on SSR storefronts
 
 ---
 
-## Featured side / personal projects (GitHub)
+## Featured projects
 
-These are personal projects and experiments I maintain on GitHub — not production apps for employers.
+<!-- Pin these 6 on profile, in this order -->
 
-- TripCore — Real-time collaborative itinerary builder  
-  https://github.com/JessenReinhart/tripcore  
-  React · TypeScript · Vite · Firebase — collaborative itineraries, budget splitting, guest invites.
+### 🏆 Tripcore — Group Trip Planner PWA
 
-- Wedding E-Invitation — Digital RSVP & guestbook platform  
-  https://github.com/JessenReinhart/wedding-e-invitation  
-  React · TailwindCSS · Leaflet — RSVP database, schedules, maps.
+No-login, real-time bill splitting, itinerary planning, and packing lists. Share a link — everyone joins.  
+React 19 · Firebase · TypeScript · Tailwind · PWA  
 
-- Invoicr — Invoice generator & time tracker  
-  https://github.com/JessenReinhart/invoicr  
-  React · TypeScript — timers, local persistence, PDF export.
+**[Live Demo](https://tripcore-delta.vercel.app)** · [Source](https://github.com/JessenReinhart/tripcore)
 
-- SoulSync — Offline personal log & goal tracker  
-  https://github.com/JessenReinhart/soulsync  
-  React · TailwindCSS — local encrypted storage and progress graphs.
+### 💒 Wedding E-Invitation Platform
 
-- Personal site / portfolio  
-  https://github.com/JessenReinhart/jessenreinhart.github.io
+Digital wedding invitation with RSVP, guestbook, admin panel, interactive map, and photo gallery.  
+React · Supabase · Leaflet · Framer Motion  
 
-(See my GitHub for additional experimental projects, demos, and tutorials.)
+**[Live Demo](https://wedding-e-invitation-beta.vercel.app)** · [Source](https://github.com/JessenReinhart/wedding-e-invitation)
 
----
+### 📊 SoulSync — Personal Journal & Mood Tracker
 
-## Biography
+Offline-first journaling with mood heatmap, analytics charts, and progress visualization.  
+React · TypeScript · Zustand · Recharts  
 
-I build transaction modules, dashboards, and CMS solutions with a focus on load speed, component isolation, and strict TypeScript configurations. My work emphasizes minimizing server‑rendered document size, maintaining zero compilation warnings, and optimizing browser resource loads for production applications.
+**[Live Demo](https://soulsync-gamma.vercel.app)** · [Source](https://github.com/JessenReinhart/soulsync)
 
----
+### 🎮 CivStrategy — Browser RTS Game
 
-## Technical Focus & Skills
+Turn-based strategy game built with React and TypeScript.  
+**[Play it](https://civ-strategy.vercel.app)** · [Source](https://github.com/JessenReinhart/CivStrategy)
 
-Frontend: React · Next.js · TypeScript · TailwindCSS · Vite · HTML5 · CSS3 · JavaScript (ES6+)  
-Backend & DB: Java · Spring Boot · PostgreSQL · Thymeleaf  
-Practices: Performance Optimization · SSR · i18n · Component Isolation · Strict TS configs · CI/CD
+### 🧾 Invoicr — Invoice Generator & Time Tracker
 
----
+Create invoices, track time, export PDFs. Local persistence, no account needed.  
+React · TypeScript  
 
-## Professional Journey (selected)
+**[Live Demo](https://invoicr-eight.vercel.app)** · [Source](https://github.com/JessenReinhart/invoicr)
 
-- Software Engineer — LG Sinarmas (via PGI Data)  
-  Developing a Card Management System. Java · Spring Boot · Thymeleaf · PostgreSQL
+### 💼 [Portfolio](https://jessenreinhart.github.io/)
 
-- Frontend Engineer — PT Wide Technologies Indonesia  
-  Built white‑label React templates and multi‑tenant interfaces. React · TypeScript · i18n
-
-- Frontend Engineer — Inspigo.id  
-  Built a Next.js CMS and prototyped a Web Audio utility. Next.js · Web Audio API
-
-- Frontend Engineer — SIRCLO  
-  Built React dashboards and server‑rendered storefronts; performance tuning for large merchant platforms.
-
-- UI Developer — Aksaramaya  
-  Delivered React dashboards and Chart.js visualizations across regional systems.
+Personal site and blog. [Source](https://github.com/JessenReinhart/jessenreinhart.github.io)
 
 ---
 
-## Open Source Activity & Contact
+## Tech stack
 
-52 contributions in the last 6 months · 31 repositories · 14 followers
+```
+React · Next.js · TypeScript · Tailwind CSS · Vite · i18n
+Java · Spring Boot · PostgreSQL · Thymeleaf
+Firebase · Supabase · CI/CD · PWA · SSR
+```
 
-![Jessen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessenReinhart&show_icons=true&theme=radical)
+---
 
-Muhammad Jessen Reinhart Sugiarto — Senior Frontend Engineer  
-Jakarta Raya, Indonesia · UTC+7 (GMT+7)  
-Email: jessenreinharts@gmail.com · LinkedIn: https://linkedin.com/in/jessenreinhart · Website: https://jessenreinhart.github.io/
+## Currently
 
-I’m open to senior frontend or full‑stack roles and contract consulting focused on web application performance, CMS solutions, and enterprise UI systems.
+**Software Engineer — LG Sinarmas (via PGI Data)**  
+Card Management System · Java · Spring Boot · Thymeleaf · PostgreSQL
+
+### Previous
+
+- **PT Wide Technologies Indonesia** — White-label React templates for 30M-user banking platform. i18n, multi-tenant, enterprise UI.
+- **Inspigo.id** — Next.js CMS and Web Audio utility.
+- **SIRCLO** — React dashboards + SSR storefronts. Lighthouse 70→95.
+- **Aksaramaya** — React dashboards + Chart.js visualizations.
+
+---
+
+Open to senior frontend / full-stack roles and contract consulting.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JessenReinhart&show_icons=true&theme=radical)
