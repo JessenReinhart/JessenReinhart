@@ -27,12 +27,12 @@ React 19 · Firebase · TypeScript · Tailwind · PWA
 
 **[Live Demo](https://tripcore-delta.vercel.app)** · [Source](https://github.com/JessenReinhart/tripcore)
 
-### 💒 Wedding E-Invitation Platform
+### 💒 Wedding Invitation Platform
 
-Digital wedding invitation with RSVP, guestbook, admin panel, interactive map, and photo gallery.  
-React · Supabase · Leaflet · Framer Motion  
+Multi-tenant wedding platform with admin panel, RSVP, guestbook, registry, gallery, maps, and music. Configurable per couple — no dev work needed after setup. Built for our own wedding, productized as a whitelabel.
+React 19 · Firebase (Auth + Firestore) · Leaflet · Framer Motion
 
-**[Live Demo](https://wedding-e-invitation-beta.vercel.app)** · [Source](https://github.com/JessenReinhart/wedding-e-invitation)
+**[Live Demo](https://wedding-invitation-tau-two.vercel.app)** · [Source](https://github.com/JessenReinhart/wedding-invitation)
 
 ### 📊 SoulSync — Personal Journal & Mood Tracker
 
